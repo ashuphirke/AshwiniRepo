@@ -1,0 +1,12 @@
+C:\Ashwini2\ContactManagementSystem\ContactManagement.Library\bin\Debug\net7.0\ContactManagement.Library.deps.json
+C:\Ashwini2\ContactManagementSystem\ContactManagement.Library\bin\Debug\net7.0\ContactManagement.Library.dll
+C:\Ashwini2\ContactManagementSystem\ContactManagement.Library\bin\Debug\net7.0\ContactManagement.Library.pdb
+C:\Ashwini2\ContactManagementSystem\ContactManagement.Library\obj\Debug\net7.0\ContactManagement.Library.csproj.AssemblyReference.cache
+C:\Ashwini2\ContactManagementSystem\ContactManagement.Library\obj\Debug\net7.0\ContactManagement.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ashwini2\ContactManagementSystem\ContactManagement.Library\obj\Debug\net7.0\ContactManagement.Library.AssemblyInfoInputs.cache
+C:\Ashwini2\ContactManagementSystem\ContactManagement.Library\obj\Debug\net7.0\ContactManagement.Library.AssemblyInfo.cs
+C:\Ashwini2\ContactManagementSystem\ContactManagement.Library\obj\Debug\net7.0\ContactManagement.Library.csproj.CoreCompileInputs.cache
+C:\Ashwini2\ContactManagementSystem\ContactManagement.Library\obj\Debug\net7.0\ContactManagement.Library.dll
+C:\Ashwini2\ContactManagementSystem\ContactManagement.Library\obj\Debug\net7.0\refint\ContactManagement.Library.dll
+C:\Ashwini2\ContactManagementSystem\ContactManagement.Library\obj\Debug\net7.0\ContactManagement.Library.pdb
+C:\Ashwini2\ContactManagementSystem\ContactManagement.Library\obj\Debug\net7.0\ref\ContactManagement.Library.dll
